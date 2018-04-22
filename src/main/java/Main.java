@@ -18,10 +18,10 @@ public class Main {
 
 		// esta codigo NO debe compilar
 
-		Persona mal = new Persona.Builder("Luisa")
+		/* Persona mal = new Persona.Builder("Luisa")
 				    .setMayor(20)
 				    .setColegio("Colegio de Villa Arriba")
 				    .build();
-
+*/
 	}
 }
